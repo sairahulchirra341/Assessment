@@ -31,4 +31,3 @@ Output2:
 Enter string:
 a12b
 Given string contains only digits : false
-D:\
