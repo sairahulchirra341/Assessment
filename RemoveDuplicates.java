@@ -1,3 +1,5 @@
+2.	How are duplicates removed from a given array in Java?
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class RemoveDuplicates {
