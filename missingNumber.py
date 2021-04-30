@@ -1,3 +1,5 @@
+1.	How do you find the missing number in a given integer array of 1 to 100?
+
 def getMissingNo(num_array):
     n = len(num_array)
     total = (n + 1)*(n + 2)/2
