@@ -1,4 +1,4 @@
-1.	How do you find the missing number in a given integer array of 1 to 100?
+1.How do you find the missing number in a given integer array of 1 to 100?
 
 def getMissingNo(num_array):
     n = len(num_array)
