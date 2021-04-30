@@ -1,3 +1,5 @@
+5. How do you check if a string contains only digits?
+
 import java.util.Scanner;
 public class DigitsOnly {
 
