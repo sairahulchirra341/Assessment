@@ -1,3 +1,6 @@
+6. How do you reverse words in a given sentence without using any library method?
+
+
 def reverse_word(s,start,end):
     while start<end:
         s[start],s[end]=s[end],s[start]
